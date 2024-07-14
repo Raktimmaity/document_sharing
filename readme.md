@@ -16,8 +16,13 @@
 
 
 ## Screenshots
+## Login Page
 
 ![App Screenshot](./1.png)
+
+## Admin Dashboard
 ![App Screenshot](./2.png)
+
+## User Dashboard
 ![App Screenshot](./3.png)
 
